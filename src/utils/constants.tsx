@@ -27,8 +27,6 @@ export const PERSONAL_INFO = {
   roles: [
     "Sr. Program Manager",
     "Delivery Leader",
-    "AI Governance Expert",
-    "Cloud Strategist",
     "Agile Practitioner"
   ]
 };
